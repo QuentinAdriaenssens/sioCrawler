@@ -14,4 +14,4 @@
 3. trois 
 4. quatre
  
-![acteurFluxInscription.png](https://github.com/QuentinAdriaenssens/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
+![acteurFluxInscription.PNG](https://github.com/QuentinAdriaenssens/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
